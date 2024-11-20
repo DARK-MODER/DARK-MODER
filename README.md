@@ -22,7 +22,15 @@ I am a web developer, a bot developer, and a chatbot enthusiast. Welcome to my G
 
 ## Tools
 
-![Tools](https://img.shields.io/badge/Tools-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20MySQL-blue)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5) 
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-008080?style=flat-square&logo=microsoft)
 
 ## Achievements
 
